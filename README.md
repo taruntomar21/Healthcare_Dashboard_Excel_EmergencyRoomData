@@ -77,6 +77,6 @@ The objective: give hospital staff a fast, visual way to answer questions like *
  
 ## Author
  
-**Tarun**
-B.Tech, NIT Jalandhar
-Data Analytics 
+**Tarun Kumar**
+- B.Tech, NIT Jalandhar
+- Data Analytics 
