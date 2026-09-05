@@ -2,7 +2,7 @@
  
 An interactive Excel dashboard built to analyze hospital emergency room patient data. It covers admissions, wait times, patient satisfaction, and department referrals to help hospital administrators identify bottlenecks and improve patient flow.
  
-![Dashboard Preview](healthcare_analysis.png)
+<img src="healthcare_dashboard.png" alt="Logo" height="100">
  
 ---
  
